@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.Android\\AutomatedTesting.Android.csproj",
+      "projectUniqueName": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.Android\\AutomatedTesting.Android.csproj",
       "projectName": "AutomatedTesting.Android",
-      "projectPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.Android\\AutomatedTesting.Android.csproj",
+      "projectPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.Android\\AutomatedTesting.Android.csproj",
       "packagesPath": "C:\\Users\\MRISEK\\.nuget\\packages\\",
-      "outputPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.Android\\obj\\",
+      "outputPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
-              "projectPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj"
+            "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
+              "projectPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj"
             }
           }
         }

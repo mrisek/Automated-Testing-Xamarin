@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.iOS\\AutomatedTesting.iOS.csproj",
+      "projectUniqueName": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.iOS\\AutomatedTesting.iOS.csproj",
       "projectName": "AutomatedTesting.iOS",
-      "projectPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.iOS\\AutomatedTesting.iOS.csproj",
+      "projectPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.iOS\\AutomatedTesting.iOS.csproj",
       "packagesPath": "C:\\Users\\MRISEK\\.nuget\\packages\\",
-      "outputPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.iOS\\obj\\",
+      "outputPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
-              "projectPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj"
+            "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
+              "projectPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj"
             }
           }
         }

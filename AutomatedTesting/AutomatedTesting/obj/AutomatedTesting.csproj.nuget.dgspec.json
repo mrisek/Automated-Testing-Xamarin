@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {}
+    "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {}
   },
   "projects": {
-    "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
+    "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj",
+        "projectUniqueName": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj",
         "projectName": "AutomatedTesting",
-        "projectPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj",
+        "projectPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting.csproj",
         "packagesPath": "C:\\Users\\MRISEK\\.nuget\\packages\\",
-        "outputPath": "C:\\AutomatedTesting\\AutomatedTesting\\AutomatedTesting\\obj\\",
+        "outputPath": "C:\\Automated-Testing-Xamarin\\AutomatedTesting\\AutomatedTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
