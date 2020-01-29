@@ -38,6 +38,14 @@
       "frameworks": {
         "net461": {
           "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
@@ -48,7 +56,7 @@
             },
             "Xamarin.UITest": {
               "target": "Package",
-              "version": "[3.0.3, )"
+              "version": "[3.0.5, )"
             }
           }
         }

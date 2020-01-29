@@ -1,5 +1,11 @@
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\AutomatedTesting.iOS.exe
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\AutomatedTesting.iOS.pdb
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.Analytics.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.Crashes.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll

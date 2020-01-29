@@ -2,7 +2,6 @@ C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\bin\Release\netst
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\bin\Release\netstandard2.0\AutomatedTesting.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\bin\Release\netstandard2.0\ref\AutomatedTesting.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\bin\Release\netstandard2.0\AutomatedTesting.pdb
-C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Release\netstandard2.0\AutomatedTesting.csprojAssemblyReference.cache
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Release\netstandard2.0\App.xaml.g.cs
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Release\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
