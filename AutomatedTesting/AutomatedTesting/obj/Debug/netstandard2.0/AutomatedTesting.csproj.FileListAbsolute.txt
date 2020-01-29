@@ -33,3 +33,4 @@ C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Debug\netstan
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Debug\netstandard2.0\AutomatedTesting.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Debug\netstandard2.0\ref\AutomatedTesting.dll
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Debug\netstandard2.0\AutomatedTesting.pdb
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting\obj\Debug\netstandard2.0\AutomatedTesting.csprojAssemblyReference.cache

@@ -54,3 +54,9 @@ C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\obj\iPhone\Re
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\obj\iPhone\Release\XamlC.stamp
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\obj\iPhone\Release\AutomatedTesting.iOS.csproj.CopyComplete
 C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\obj\iPhone\Release\AutomatedTesting.iOS.exe
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.iOS.Bindings.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.dll
+C:\Automated-Testing-Xamarin\AutomatedTesting\AutomatedTesting.iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
